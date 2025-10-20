@@ -25,11 +25,17 @@ I love participating in hackathons, experimenting with AI Agents, and turning id
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div>
 
-<img src="https://github-readme-stats-kohl-two-96.vercel.app//api?username=sanju26honey&show_icons=true&theme=transparent&hide=issues,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&hide_border=true" width="45%" style="margin: 1%; box-shadow:1px 1px 5px 1px #222;" />
+<img src="https://github-readme-stats-kohl-two-96.vercel.app//api?username=sanju26honey&show_icons=true&theme=transparent&hide=issues,contribs&border_color=001C4D&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github" width="45%" style="margin: 1%; box-shadow:1px 1px 5px 1px #222;" />
 
-<img src="https://github-readme-stats-kohl-two-96.vercel.app/api/top-langs/?username=sanju26honey&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" width="45%" style="margin: 1%; box-shadow:1px 1px 5px 1px #222;" />
+<br/>
+
+<img src="https://github-readme-stats-kohl-two-96.vercel.app/api/top-langs/?username=sanju26honey&layout=compact&theme=transparent&hide=jupyter%20notebook&border_color=001C4D" width="45%" style="margin: 1%; box-shadow:1px 1px 5px 1px #222;" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sanju26honey&theme=transparent&hide_current_streak=true&border=001C4D" style="box-shadow:1px 1px 5px 1px #222; margin: 1%" width="45%"/>
 
 </div>
 <br/><br/>
